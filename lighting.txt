@@ -1,0 +1,11 @@
+rim light
+Volumetric Lighting
+glowing neon lights
+Cinematic Lighting
+lens flare
+metallic luster
+moody lighting
+Tyndall effect
+light leaks
+background light
+available light

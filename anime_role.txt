@@ -1,0 +1,62 @@
+pokemon
+teddy bear
+mario
+pikachu
+neon genesis evangelion
+hatsune miku
+harry potter
+doraemon
+saint seiya
+gojou satoru
+avengers
+mazinger
+captain america
+crayon shin-chan
+slam dunk
+sun wukong
+witch
+miko
+ninja
+vampire
+knight
+magical_girl
+orc
+druid
+elf
+fairy
+furry
+mermaid
+kamen rider
+magister
+spider-man
+santa alter
+monster_girl
+cat_girl
+dog_girl
+fox_girl
+kitsune
+kyuubi
+raccoon_girl
+wolf_girl
+bunny_girl
+horse_girl
+cow_girl
+dragon_girl
+centaur
+slime_musume
+spider_girl
+dominatrix
+sailor_senshi
+mecha
+mecha_musume
+humanoid_robot_
+cyborg
+angel
+devil
+dark_elf
+imp
+succubus
+giantess
+minigirl
+monster
+no humans

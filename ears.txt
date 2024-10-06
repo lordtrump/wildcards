@@ -1,0 +1,60 @@
+elf ears
+fake animal ears
+cat ears
+dog ears
+fox ears
+bunny ears
+bear ears
+wolf ears
+horse ears
+cow ears
+mouse ears
+pig ears
+sheep ears
+deer ears
+goat ears
+antelope ears
+rhino ears
+elephant ears
+bat ears
+dragon ears
+demon ears
+angel ears
+alien ears
+ear_blush
+ear_ornament
+ear_piercing
+animal_ears
+ears_down
+fake_animal_ears
+floppy_ears
+animal_ear_fluff
+fox_ears
+cat_ears
+lion_ears
+jaguar_ears
+tiger_ears
+dog_ears
+coyote_ears
+bunny_ears
+horse_ears
+pointy_ears
+long_pointy_ears
+mouse_ears
+raccoon_ears
+squirrel_ears
+bear_ears
+panda_ears
+bat_ears
+robot_ears
+extra_ears
+ears_through_headwear
+alpaca_ears
+horns
+fake_horns
+dragon_horns
+oni_horns
+antlers
+curled_horns
+goat_horns
+hair_on_horn

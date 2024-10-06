@@ -1,0 +1,107 @@
+day
+dusk
+night
+rain
+rainy days
+sunset
+cloudy
+full moon
+sun
+moon
+full_moon
+stars
+sky
+universe
+snow,ice
+snowflakes
+lighting
+rainbow
+meteor shower
+cumulonimbus
+nature
+sea
+ocean
+beach
+hills
+in a meadow
+on the beach
+underwater
+over the sea
+grove
+on a desert
+plateau
+cliff
+canyon
+oasis
+bamboo forest
+glacier
+floating island
+volcano
+savanna
+waterfall
+stream
+wasteland
+field
+rice paddy
+wheat field
+flower field
+flower sea
+space
+starry sky
+lake
+river
+onsen
+flowers meadows
+Alps
+Dreamy forest
+mountain
+on a hill
+the top of the hill
+outdoors
+fantasy
+ban
+cyberpunk
+depth_of_field
+blurry
+blurry_foreground
+simple_background
+black_background
+white_background
+transparent_background
+beige_background
+brown_background
+tan_background
+grey_background
+two-tone_background
+gradient_background
+multicolored_background
+rainbow_background
+abstract_background
+argyle_background
+checkered_background
+floral_background
+halftone_background
+heart_background
+honeycomb_background
+plaid_background
+polka_dot
+striped_background
+scenery
+landscape
+foral_background
+crop_top_overhang
+starry_background
+sparkle_background
+cityscape
+city_lights
+clock_background
+bubble_background
+border
+pillarboxed
+rounded_corners
+viewfinder
+windowboxed
+outside_border
+flashback
+wall_of_text
+background_text
